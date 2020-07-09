@@ -1,4 +1,4 @@
-# Legendary Artifacts Shop in PHP
+#PHP
 
 We are using dockerized development environment, as described here (almost):
 <br/>
